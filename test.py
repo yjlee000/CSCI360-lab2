@@ -1,7 +1,7 @@
 # Any changes to this file will not be reflected during testing and grading
 # While these are some test cases these are not the only cases used in grading
 from lab2_utils import TextbookStack, apply_sequence
-from lab2 import a_star_search
+from lab2_solution import a_star_search
 import itertools
 import time
 
